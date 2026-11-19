@@ -1,0 +1,39 @@
+
+[
+    {
+        "id_kelas": "1",
+        "nama_kelas": "X IPA 1",
+        "tingkat": "10",
+        "tahun_ajaran": "2026/2027"
+    },
+    {
+        "id_kelas": "2",
+        "nama_kelas": "X IPA 2",
+        "tingkat": "10",
+        "tahun_ajaran": "2026/2027"
+    },
+    {
+        "id_kelas": "3",
+        "nama_kelas": "XI IPA 1",
+        "tingkat": "11",
+        "tahun_ajaran": "2026/2027"
+    },
+    {
+        "id_kelas": "4",
+        "nama_kelas": "XI IPS 1",
+        "tingkat": "11",
+        "tahun_ajaran": "2026/2027"
+    },
+    {
+        "id_kelas": "5",
+        "nama_kelas": "XII IPA 1",
+        "tingkat": "12",
+        "tahun_ajaran": "2026/2027"
+    },
+    {
+        "id_kelas": "7",
+        "nama_kelas": "KELAS_UJI_COMMIT",
+        "tingkat": "10",
+        "tahun_ajaran": "2026/2027"
+    }
+]
