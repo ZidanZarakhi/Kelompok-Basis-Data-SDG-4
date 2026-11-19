@@ -1,0 +1,66 @@
+
+[
+    {
+        "id_siswa": "1",
+        "id_kelas": "1",
+        "nama_siswa": "Ahmad Rizky",
+        "kode_siswa": "S001",
+        "tanggal_lahir": "2010-03-15"
+    },
+    {
+        "id_siswa": "2",
+        "id_kelas": "1",
+        "nama_siswa": "Putri Amelia",
+        "kode_siswa": "S002",
+        "tanggal_lahir": "2010-07-20"
+    },
+    {
+        "id_siswa": "3",
+        "id_kelas": "2",
+        "nama_siswa": "Rizky Pratama",
+        "kode_siswa": "S003",
+        "tanggal_lahir": "2010-05-10"
+    },
+    {
+        "id_siswa": "4",
+        "id_kelas": "2",
+        "nama_siswa": "Nadia Safitri",
+        "kode_siswa": "S004",
+        "tanggal_lahir": "2010-11-25"
+    },
+    {
+        "id_siswa": "5",
+        "id_kelas": "3",
+        "nama_siswa": "Fajar Ramadhan",
+        "kode_siswa": "S005",
+        "tanggal_lahir": "2009-02-12"
+    },
+    {
+        "id_siswa": "6",
+        "id_kelas": "3",
+        "nama_siswa": "Intan Permata",
+        "kode_siswa": "S006",
+        "tanggal_lahir": "2009-08-17"
+    },
+    {
+        "id_siswa": "7",
+        "id_kelas": "4",
+        "nama_siswa": "Dimas Saputra",
+        "kode_siswa": "S007",
+        "tanggal_lahir": "2009-04-22"
+    },
+    {
+        "id_siswa": "8",
+        "id_kelas": "5",
+        "nama_siswa": "Rani Oktaviani",
+        "kode_siswa": "S008",
+        "tanggal_lahir": "2008-06-30"
+    },
+    {
+        "id_siswa": "9",
+        "id_kelas": "5",
+        "nama_siswa": "Bagas Firmansyah",
+        "kode_siswa": "S009",
+        "tanggal_lahir": "2008-09-14"
+    }
+]
