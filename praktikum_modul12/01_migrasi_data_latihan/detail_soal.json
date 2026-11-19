@@ -1,0 +1,62 @@
+
+[
+    {
+        "id_detail_soal": 1,
+        "id_kuis": 1,
+        "nomor_soal": 1,
+        "detail_soal": {
+            "pertanyaan": "Berapakah hasil dari 10 x 5?",
+            "tipe_soal": "pilihan_ganda",
+            "opsi_jawaban": {
+                "A": "15",
+                "B": "25",
+                "C": "50",
+                "D": "100"
+            },
+            "kunci_jawaban": "C",
+            "tingkat_kesulitan": "sulit",
+            "poin": 10,
+            "waktu_pengerjaan": 60
+        },
+        "created_at": "2026-11-14 21:43:34"
+    },
+    {
+        "id_detail_soal": 2,
+        "id_kuis": 1,
+        "nomor_soal": 2,
+        "detail_soal": {
+            "pertanyaan": "Apa yang dimaksud dengan bilangan prima?",
+            "tipe_soal": "isian_singkat",
+            "kata_kunci": [
+                "bilangan",
+                "lebih dari satu",
+                "dua faktor"
+            ],
+            "kunci_jawaban": "Bilangan yang memiliki tepat dua faktor.",
+            "pembahasan": "Bilangan prima hanya dapat dibagi oleh 1 dan dirinya sendiri.",
+            "tingkat_kesulitan": "menengah",
+            "poin": 15
+        },
+        "created_at": "2026-11-14 21:43:34"
+    },
+    {
+        "id_detail_soal": 3,
+        "id_kuis": 2,
+        "nomor_soal": 1,
+        "detail_soal": {
+            "pertanyaan": "Apa satuan SI untuk gaya?",
+            "tipe_soal": "pilihan_ganda",
+            "opsi_jawaban": {
+                "A": "Joule",
+                "B": "Newton",
+                "C": "Watt",
+                "D": "Pascal"
+            },
+            "kunci_jawaban": "B",
+            "pembahasan": "Satuan SI untuk gaya adalah Newton.",
+            "tingkat_kesulitan": "mudah",
+            "poin": 10
+        },
+        "created_at": "2026-11-14 21:43:34"
+    }
+]
