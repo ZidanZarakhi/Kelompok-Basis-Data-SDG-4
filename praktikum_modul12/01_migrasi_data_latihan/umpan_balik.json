@@ -1,0 +1,52 @@
+
+[
+    {
+        "id_umpan_balik": "1",
+        "id_kelas": "1",
+        "isi_umpan_balik": "Materi matematika mudah dipahami dan contoh soal cukup jelas.",
+        "tingkat_pemahaman": "sangat_paham",
+        "tanggal_pengisian": "2026-11-07 00:28:24"
+    },
+    {
+        "id_umpan_balik": "2",
+        "id_kelas": "1",
+        "isi_umpan_balik": "Saya masih kesulitan memahami materi persamaan linear.",
+        "tingkat_pemahaman": "belum_paham",
+        "tanggal_pengisian": "2026-11-07 00:28:24"
+    },
+    {
+        "id_umpan_balik": "3",
+        "id_kelas": "2",
+        "isi_umpan_balik": "Materi yang diberikan cukup jelas, tetapi perlu lebih banyak latihan.",
+        "tingkat_pemahaman": "cukup_paham",
+        "tanggal_pengisian": "2026-11-07 00:28:24"
+    },
+    {
+        "id_umpan_balik": "4",
+        "id_kelas": "2",
+        "isi_umpan_balik": "Penjelasan guru mudah dimengerti.",
+        "tingkat_pemahaman": "sangat_paham",
+        "tanggal_pengisian": "2026-11-07 00:28:24"
+    },
+    {
+        "id_umpan_balik": "5",
+        "id_kelas": "3",
+        "isi_umpan_balik": "Saya belum memahami beberapa konsep dalam materi fisika.",
+        "tingkat_pemahaman": "belum_paham",
+        "tanggal_pengisian": "2026-11-07 00:28:24"
+    },
+    {
+        "id_umpan_balik": "6",
+        "id_kelas": "4",
+        "isi_umpan_balik": "Materi pembelajaran cukup mudah dipahami.",
+        "tingkat_pemahaman": "cukup_paham",
+        "tanggal_pengisian": "2026-11-07 00:28:24"
+    },
+    {
+        "id_umpan_balik": "7",
+        "id_kelas": "5",
+        "isi_umpan_balik": "Pembelajaran sangat membantu dalam persiapan ujian.",
+        "tingkat_pemahaman": "sangat_paham",
+        "tanggal_pengisian": "2026-11-07 00:28:24"
+    }
+]
