@@ -1,0 +1,43 @@
+
+[
+    {
+        "id_kuis": "1",
+        "id_pengguna": "2",
+        "judul_kuis": "Kuis Matematika Dasar",
+        "deskripsi": "Kuis mengenai operasi bilangan dan aljabar.",
+        "tanggal_dibuat": "2026-11-07 00:28:24",
+        "kode_kuis": "MTK001"
+    },
+    {
+        "id_kuis": "2",
+        "id_pengguna": "2",
+        "judul_kuis": "Kuis Fisika",
+        "deskripsi": "Kuis mengenai konsep dasar gerak dan gaya.",
+        "tanggal_dibuat": "2026-11-07 00:28:24",
+        "kode_kuis": "FIS001"
+    },
+    {
+        "id_kuis": "3",
+        "id_pengguna": "3",
+        "judul_kuis": "Kuis Bahasa Indonesia",
+        "deskripsi": "Kuis mengenai teks eksposisi dan teks narasi.",
+        "tanggal_dibuat": "2026-11-07 00:28:24",
+        "kode_kuis": "BIN001"
+    },
+    {
+        "id_kuis": "4",
+        "id_pengguna": "3",
+        "judul_kuis": "Kuis Biologi",
+        "deskripsi": "Kuis mengenai sistem organ manusia.",
+        "tanggal_dibuat": "2026-11-07 00:28:24",
+        "kode_kuis": "BIO001"
+    },
+    {
+        "id_kuis": "5",
+        "id_pengguna": "2",
+        "judul_kuis": "Kuis Matematika Lanjutan",
+        "deskripsi": "Evaluasi matematika tingkat lanjutan",
+        "tanggal_dibuat": "2026-11-07 00:28:24",
+        "kode_kuis": "MTK002"
+    }
+]
