@@ -1,0 +1,83 @@
+
+[
+    {
+        "id_hasil": "1",
+        "id_siswa": "1",
+        "id_kuis": "1",
+        "nilai": "85.00",
+        "tanggal_pengerjaan": "2026-11-01 09:00:00",
+        "status_pengerjaan": "selesai"
+    },
+    {
+        "id_hasil": "2",
+        "id_siswa": "2",
+        "id_kuis": "1",
+        "nilai": "90.00",
+        "tanggal_pengerjaan": "2026-11-01 09:15:00",
+        "status_pengerjaan": "selesai"
+    },
+    {
+        "id_hasil": "3",
+        "id_siswa": "3",
+        "id_kuis": "1",
+        "nilai": "75.00",
+        "tanggal_pengerjaan": "2026-11-01 09:30:00",
+        "status_pengerjaan": "selesai"
+    },
+    {
+        "id_hasil": "4",
+        "id_siswa": "4",
+        "id_kuis": "2",
+        "nilai": "80.00",
+        "tanggal_pengerjaan": "2026-11-02 10:00:00",
+        "status_pengerjaan": "selesai"
+    },
+    {
+        "id_hasil": "5",
+        "id_siswa": "5",
+        "id_kuis": "2",
+        "nilai": "95.00",
+        "tanggal_pengerjaan": "2026-11-02 10:15:00",
+        "status_pengerjaan": "selesai"
+    },
+    {
+        "id_hasil": "6",
+        "id_siswa": "6",
+        "id_kuis": "3",
+        "nilai": "88.00",
+        "tanggal_pengerjaan": "2026-11-03 08:00:00",
+        "status_pengerjaan": "selesai"
+    },
+    {
+        "id_hasil": "7",
+        "id_siswa": "7",
+        "id_kuis": "3",
+        "nilai": null,
+        "tanggal_pengerjaan": "2026-11-03 08:30:00",
+        "status_pengerjaan": "belum_selesai"
+    },
+    {
+        "id_hasil": "8",
+        "id_siswa": "8",
+        "id_kuis": "4",
+        "nilai": "92.00",
+        "tanggal_pengerjaan": "2026-11-04 09:00:00",
+        "status_pengerjaan": "selesai"
+    },
+    {
+        "id_hasil": "9",
+        "id_siswa": "9",
+        "id_kuis": "5",
+        "nilai": "70.00",
+        "tanggal_pengerjaan": "2026-11-04 10:00:00",
+        "status_pengerjaan": "selesai"
+    },
+    {
+        "id_hasil": "10",
+        "id_siswa": "1",
+        "id_kuis": "2",
+        "nilai": null,
+        "tanggal_pengerjaan": "2026-11-05 09:00:00",
+        "status_pengerjaan": "belum_selesai"
+    }
+]
