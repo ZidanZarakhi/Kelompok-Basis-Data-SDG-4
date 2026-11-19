@@ -1,0 +1,38 @@
+
+[
+    {
+        "id_pengguna": "1",
+        "nama": "Admin Sekolah",
+        "email": "admin@sekolah.com",
+        "password": "admin123",
+        "role": "admin"
+    },
+    {
+        "id_pengguna": "2",
+        "nama": "Budi Santoso",
+        "email": "budi@sekolah.com",
+        "password": "guru123",
+        "role": "guru"
+    },
+    {
+        "id_pengguna": "3",
+        "nama": "Siti Aminah",
+        "email": "siti@sekolah.com",
+        "password": "guru456",
+        "role": "guru"
+    },
+    {
+        "id_pengguna": "4",
+        "nama": "Andi Wijaya",
+        "email": "andi@gmail.com",
+        "password": "wali123",
+        "role": "wali_murid"
+    },
+    {
+        "id_pengguna": "5",
+        "nama": "Dewi Lestari",
+        "email": "dewi@gmail.com",
+        "password": "wali456",
+        "role": "wali_murid"
+    }
+]
