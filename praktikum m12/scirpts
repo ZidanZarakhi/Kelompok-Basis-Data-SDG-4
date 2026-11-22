@@ -1,0 +1,8 @@
+Cek hak akses
+SELECT id, `roles` FROM system:user_info WHERE id = "report_user";
+Uji baca 
+SELECT trip_id, started_at FROM `transport_db`._default.trips WHERE route_id = 12;
+Uji DELETE 
+DELETE FROM `transport_db`._default.trips WHERE trip_id = "T006";
+Cabut hak
+REVOKE query_select ON `transport_db` FROM report_user;
